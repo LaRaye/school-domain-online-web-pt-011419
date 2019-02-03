@@ -21,7 +21,4 @@ class School
     end
     @roster
   end
-    
-    
-    
 end 
